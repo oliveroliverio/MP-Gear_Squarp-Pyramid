@@ -1,5 +1,12 @@
 # Squarp Pyramid Notes
 
+## Maschine + Squarp
+Goal: to use Maschine as MIDI input for squarp (velocity ghost notes)
+1. Open ableton
+2. Set Midi track one to Maschine Instance
+3. Squarp: press track -> hold down "channel" and rotate knob to select USB CH1
+4. Test by pressing "Live" and playing some Notes
+5.
 ## Sequence Chords
 - open ableton live
 - midi track 1:
